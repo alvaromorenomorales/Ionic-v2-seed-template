@@ -1,0 +1,18 @@
+#leftMenu {
+  .toolbar-title:first-letter, ion-label:first-letter{
+    text-transform: capitalize;
+  }
+  ion-item{
+    cursor: pointer;
+    border-bottom: $borderDefault;
+  }
+  .item-inner{
+    border: none!important;
+  }
+}
+
+#appContent{
+  .toolbar-title:first-letter{
+    text-transform: capitalize;
+  }
+}

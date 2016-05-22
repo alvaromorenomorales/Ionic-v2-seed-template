@@ -1,0 +1,18 @@
+{
+  "<!-- common -->": "Common words for using in the whole app",
+  "back": "back",
+  "cancel": "cancel",
+  "english": "english",
+  "home": "home",
+  "loading": "loading",
+  "no": "no",
+  "pages": "pages",
+  "spanish": "español",
+  "title": "title",
+  "yes": "yes",
+  "<!-- Page: home -->":  "***********************",
+  "salute": "Hello world",
+  "<!-- Page: user -->":  "***********************",
+  "profile": "profile",
+  "setlang": "set your language"
+}

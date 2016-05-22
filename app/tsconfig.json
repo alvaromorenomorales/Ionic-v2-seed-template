@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "outDir": "../www/test"
+  },
+  "exclude": [
+    "coverage",
+    "hooks",
+    "node_modules",
+    "plugins",
+    "resources",
+    "tests",
+    "typings",
+    "www"
+  ]
+}

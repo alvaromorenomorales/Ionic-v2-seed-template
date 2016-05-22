@@ -1,0 +1,18 @@
+{
+  "<!-- common -->": "Palabras comunes para usar en toda la app",
+  "back": "atrás",
+  "cancel": "cancelar",
+  "english": "inglés",
+  "home": "inicio",
+  "loading": "cargando",
+  "no": "no",
+  "pages": "páginas",
+  "spanish": "español",
+  "title": "título",
+  "yes": "si",
+  "<!-- Page: home -->":  "***********************",
+  "salute": "¡Hola mundo!",
+  "<!-- Page: user -->":  "***********************",
+  "profile": "perfil",
+  "setlang": "configura tu idioma"
+}
