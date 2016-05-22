@@ -11,8 +11,8 @@
 # Introduction
 This is a starter template for [Ionic v2](http://ionicframework.com/docs/v2/) and typescript.
 
-ionic2:     version 2.0.0-beta.6
-angular2:   version 2.0.0-beta.15
+ionic2:     version 2.0.0-beta.7
+angular2:   version 2.0.0-rc.1
 
 # Features
 ## [Unit testing]
